@@ -5,6 +5,6 @@
     <string name="map">Map</string>
     <string name="favorites">Favorites</string>
     <string name="settings">Settings</string>
-    <string name="google_map_places_api">AIzaSyChDqZmZEYsqwcANu3-Pg25gIiT4ULkwZw</string>
-    <string name="google_places_keren_api">AIzaSyAwZJDYXqyOheZRqLEpSRuQxOYvRW5ll_c</string>
+    <string name="google_map_places_api">********</string>
+    <string name="google_places_keren_api">********</string>
 </resources>
